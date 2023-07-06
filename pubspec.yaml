@@ -12,7 +12,9 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.5
   flutter_map: ^4.0.0
+  latlong2: ^0.8.1
   flutter_map_supercluster: ^4.2.1
+
 
 dev_dependencies:
   flutter_test:
